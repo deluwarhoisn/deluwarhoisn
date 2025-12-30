@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/qMFdFYf/banner.png" width="100%" />
+  <img src="[https://i.ibb.co/qMFdFYf/banner.png](https://i.ibb.co.com/ymmt6B8x/Chat-GPT-Image-Dec-30-2025-10-52-21-PM.jpg)" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm DELUWAR HOSIN</h1>
