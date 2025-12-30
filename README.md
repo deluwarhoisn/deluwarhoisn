@@ -3,16 +3,17 @@
   <img src="https://i.ibb.co/qMFdFYf/banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm DELUWAR HOSIN</h1>
+<h3 align="center">Frontend Web Developer | React & Next.js</h3>
 
 ---
 
 ### 🧑‍💻 About Me
-- Passionate frontend developer who loves building user-friendly web applications.
-- Currently learning **Next.js** and exploring modern UI/UX techniques.
-- I enjoy working with JavaScript, React ecosystem, and Tailwind CSS.
-- Always curious to learn and grow by doing real-world projects.
+- I am a passionate **Frontend Web Developer** with hands-on experience in building user-friendly and responsive web applications.
+- Skilled in **React.js, Next.js, Tailwind CSS, JavaScript, and MongoDB**, and always excited to work with modern web technologies.
+- Currently learning **Next.js** in depth and exploring UI/UX to create better digital experiences.
+- I love solving problems through real-world projects and continuously improving my development skills.
+- Always curious, always learning, and always building! 🚀
 
 ---
 
@@ -61,3 +62,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160" />
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
