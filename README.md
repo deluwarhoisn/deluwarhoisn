@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://i.ibb.co/qMFdFYf/banner.png](https://i.ibb.co.com/ymmt6B8x/Chat-GPT-Image-Dec-30-2025-10-52-21-PM.jpg)" width="100%" />
+ <img src="https://i.ibb.co.com/ymmt6B8x/Chat-GPT-Image-Dec-30-2025-10-52-21-PM.jpg" width="100%" />
+
 </p>
 
 <h1 align="center">Hi 👋, I'm DELUWAR HOSIN</h1>
@@ -51,14 +52,19 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deluwarhosin&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deluwarhosin&theme=tokyonight" height="160" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=deluwarhosin&show_icons=true&theme=tokyonight&hide=issues,contribs" height="160" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=deluwarhosin&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deluwarhosin&layout=compact&theme=tokyonight" height="160" />
 </p>
+
+
