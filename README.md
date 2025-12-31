@@ -54,17 +54,6 @@
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=deluwarhosin&show_icons=true&theme=tokyonight&hide=issues,contribs" height="160" />
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=deluwarhosin&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deluwarhosin&layout=compact&theme=tokyonight" height="160" />
-</p>
 
 
